@@ -44,6 +44,7 @@
 
 ## Contact
 Created by 
-    Harshal Bhatkar(harshalbhatkar10f98@gmail.com)
+    Harshal Bhatkar
+    (harshalbhatkar10f98@gmail.com)
     [@Harshal-Bhatkar](https://github.com/Harshal-Bhatkar)
 feel free to reach out to us!!
